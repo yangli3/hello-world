@@ -1,2 +1,3 @@
 # hello_world
-Assignment 1 of ANLY 502
+
+This is the assignment 1 of ANLY 502
